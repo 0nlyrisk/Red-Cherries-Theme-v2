@@ -1,0 +1,388 @@
+{
+  "name": "Red Cherries 🍒 Theme V2",
+  "description": "A dark glitchy red-on-black theme, matching the RED. cherry background art",
+  "version": "1.1",
+  "authors": [
+    {
+      "name": "𝐑𝐢𝐬𝐤",
+      "id": "1113130615630471290"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#3c0f10"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "#aa2a2e66"
+    ],
+    "CHAT_BACKGROUND": [
+      "#150506"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#4a1214"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#150506"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#320c0e"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#5e181a"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#3f1011"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "transparent"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#150506"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#22090a"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#150506"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#22090a"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#9c9c9c"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#22090a"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#150506"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#150506"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#130304"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#310c0e"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#471213"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#260a0b"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#150506"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#150506"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#060202"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#060202"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#130304"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#150506"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#130304"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#150506"
+    ],
+    "BG_BACKDROP": [
+      "#00000066"
+    ],
+    "HOME_BACKGROUND": [
+      "#130304"
+    ],
+    "BORDER_FAINT": [
+      "#22090a"
+    ],
+    "BORDER_STRONG": [
+      "#22090a"
+    ],
+    "BORDER_SUBTLE": [
+      "#150506"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#280a0b"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#280a0b"
+    ],
+    "CHANNEL_ICON": [
+      "#e18689"
+    ],
+    "EMBED_BACKGROUND": [
+      "#22090a"
+    ],
+    "HEADER_PRIMARY": [
+      "#f6ddde"
+    ],
+    "HEADER_SECONDARY": [
+      "#f1c5c6"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#f6ddde"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#DEDCDE"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#be2f33"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#f6ddde"
+    ],
+    "MENTION_BACKGROUND": [
+      "#3b0f10"
+    ],
+    "MENTION_FOREGROUND": [
+      "#912428"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#5e181a"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#5e181a"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#150506"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#912428"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#d14549"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#f6ddde"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#22090a"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#721c1f"
+    ],
+    "STATUS_DANGER": [
+      "#cd3338"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#cd3338"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#cd3338"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#2d0a0c"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#24090a"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "#441112"
+    ],
+    "TEXT_LINK": [
+      "#df7f82"
+    ],
+    "TEXT_MUTED": [
+      "#be2f33"
+    ],
+    "TEXT_NORMAL": [
+      "#f6ddde"
+    ],
+    "TEXT_PRIMARY": [
+      "#f6ddde"
+    ],
+    "TEXT_SECONDARY": [
+      "#be2f33"
+    ],
+    "KEYBOARD": [
+      "#150506"
+    ],
+    "PANEL_BG": [
+      "#150506"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#130304"
+    ]
+  },
+  "rawColors": {
+    "BLUE_260": "#8a2226",
+    "BLUE_300": "#852024",
+    "BLUE_330": "#802023",
+    "BLUE_345": "#f6ddde",
+    "BLUE_360": "#741d20",
+    "BLUE_400": "#9b262a",
+    "BLUE_430": "#6c1a1d",
+    "BLUE_460": "#63191b",
+    "BLUE_500": "#5e181a",
+    "BLUE_530": "#5b1719",
+    "BLUE_560": "#561517",
+    "BLUE_600": "#521416",
+    "BLUE_630": "#4a1214",
+    "BLUE_660": "#411011",
+    "BLUE_700": "#390e0f",
+    "BRAND_200": "#952529",
+    "BRAND_260": "#8a2226",
+    "BRAND_300": "#852024",
+    "BRAND_330": "#802023",
+    "BRAND_345": "#f6ddde",
+    "BRAND_360": "#f6ddde",
+    "BRAND_400": "#9b262a",
+    "BRAND_430": "#6c1a1d",
+    "BRAND_460": "#63191b",
+    "BRAND_500": "#aa2a2e",
+    "BRAND_530": "#5b1719",
+    "BRAND_560": "#f6ddde",
+    "BRAND_600": "#521416",
+    "BRAND_630": "#4a1214",
+    "BRAND_660": "#411011",
+    "BRAND_700": "#390e0f",
+    "BRAND_730": "#561517",
+    "PLUM_1": "#be2f33",
+    "PLUM_10": "#be2f33",
+    "PLUM_11": "#aa2a2e",
+    "PLUM_13": "#310c0e",
+    "PLUM_15": "#2d0a0c",
+    "PLUM_16": "#370d0e",
+    "PLUM_17": "#22090a",
+    "PLUM_18": "#150506",
+    "PLUM_19": "#150506",
+    "PLUM_20": "#150506",
+    "PLUM_21": "#2d0a0c",
+    "PLUM_22": "#110808",
+    "PLUM_24": "#1c0708",
+    "PLUM_25": "#130909",
+    "PLUM_3": "#f6ddde",
+    "PLUM_4": "#f3ced0",
+    "PLUM_6": "#f6ddde",
+    "PLUM_9": "#be2f33",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#ffffff",
+    "PRIMARY_300": "#952529",
+    "PRIMARY_330": "#fdfcfc",
+    "PRIMARY_360": "#fdfcfc",
+    "PRIMARY_400": "#ffffff",
+    "PRIMARY_460": "#421011",
+    "PRIMARY_500": "#5e181a",
+    "PRIMARY_530": "#5b1719",
+    "PRIMARY_600": "#22090a",
+    "PRIMARY_630": "#200809",
+    "PRIMARY_645": "#150506",
+    "PRIMARY_660": "#25090a",
+    "PRIMARY_700": "#25090a",
+    "PRIMARY_730": "#25090a",
+    "PRIMARY_800": "#24090a",
+    "GREEN_260": "#8a2226",
+    "GREEN_300": "#852024",
+    "GREEN_330": "#802023",
+    "GREEN_345": "#f6ddde",
+    "GREEN_360": "#e08487",
+    "GREEN_400": "#9b262a",
+    "GREEN_430": "#6c1a1d",
+    "GREEN_460": "#63191b",
+    "GREEN_500": "#5e181a",
+    "GREEN_530": "#5b1719",
+    "GREEN_560": "#561517",
+    "GREEN_600": "#521416",
+    "GREEN_630": "#4a1214",
+    "GREEN_660": "#411011",
+    "GREEN_700": "#390e0f",
+    "GUILD_BOOSTING_PINK": "#6d1b1e",
+    "GUILD_BOOSTING_PURPLE": "#6d1b1e",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#6d1b1e",
+    "RED_260": "#8a2226",
+    "RED_300": "#852024",
+    "RED_330": "#802023",
+    "RED_345": "#cd3338",
+    "RED_360": "#741d20",
+    "RED_400": "#d75b60",
+    "RED_430": "#cd3338",
+    "RED_460": "#63191b",
+    "RED_500": "#5e181a",
+    "RED_530": "#5b1719",
+    "RED_560": "#561517",
+    "RED_600": "#521416",
+    "RED_630": "#4a1214",
+    "RED_660": "#411011",
+    "RED_700": "#390e0f",
+    "ROLE_DEFAULT": "#FFFFFF",
+    "ORANGE_260": "#8a2226",
+    "ORANGE_300": "#852024",
+    "ORANGE_330": "#802023",
+    "ORANGE_345": "#f6ddde",
+    "ORANGE_360": "#741d20",
+    "ORANGE_400": "#9b262a",
+    "ORANGE_430": "#6c1a1d",
+    "ORANGE_460": "#63191b",
+    "ORANGE_500": "#5e181a",
+    "ORANGE_530": "#5b1719",
+    "ORANGE_560": "#561517",
+    "ORANGE_600": "#521416",
+    "ORANGE_630": "#4a1214",
+    "ORANGE_660": "#411011",
+    "ORANGE_700": "#390e0f",
+    "YELLOW_260": "#8a2226",
+    "YELLOW_300": "#852024",
+    "YELLOW_330": "#802023",
+    "YELLOW_345": "#f6ddde",
+    "YELLOW_360": "#741d20",
+    "YELLOW_400": "#9b262a",
+    "YELLOW_430": "#6c1a1d",
+    "YELLOW_460": "#63191b",
+    "YELLOW_500": "#5e181a",
+    "YELLOW_530": "#5b1719",
+    "YELLOW_560": "#561517",
+    "YELLOW_600": "#521416",
+    "YELLOW_630": "#4a1214",
+    "YELLOW_660": "#411011",
+    "YELLOW_700": "#390e0f",
+    "WHITE_500": "#FFFFFF",
+    "WHITE_630": "#b22c30"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-BoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VodkaXMartini/images/raw/main/Roboto-Regular.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#f8e2e3"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://github.com/0nlyrisk/Red-Cherries-Theme-v2/raw/refs/heads/main/Red%20Cherries%20%F0%9F%8D%92%20Theme%20V2%20Background",
+    "alpha": 0.5,
+    "blur": 0.75
+  }
+}
